@@ -1,0 +1,2 @@
+# Trashgpt
+Fakhri Final Project
