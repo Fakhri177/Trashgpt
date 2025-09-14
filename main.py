@@ -143,5 +143,4 @@ async def exam(ctx):
 
 
 
-bot.run("MTQxNTY4NDQ2NjEzOTIwNTcxMw.GfW_F2.nAvrT32a7r6Pt4-J0tyhADglfV2Iq5QHfy6nIA")
-#MTQxNTY4NDQ2NjEzOTIwNTcxMw.GfW_F2.nAvrT32a7r6Pt4-J0tyhADglfV2Iq5QHfy6nIA
+bot.run("Masukkan Token BOT")
