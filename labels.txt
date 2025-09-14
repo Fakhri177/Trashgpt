@@ -1,0 +1,4 @@
+0 Sampah kaleng
+1 Sisa makanan
+2 Sampah plastik
+3 Sampah kaca
