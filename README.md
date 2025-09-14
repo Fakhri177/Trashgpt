@@ -4,7 +4,7 @@ Adalah bot discord yang akan membantu anda dalam mengkategorikan sampah - sampah
 ## Features :
 * Klaasifikasi objek(sampah)
 * chatbot yang akan membantu soal masalah sampah
-* Minigames/challenge tentang sampah
+* Minigames tentang sampah
 
 ## Technology :
 * Teachable machine and Tensorflow
